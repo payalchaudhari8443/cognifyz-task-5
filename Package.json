@@ -1,0 +1,13 @@
+{
+    "name": "task-5",
+    "version": "1.0.0",
+    "description": "Task 5 of Cognifyz Internship",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "ejs": "^3.1.9",
+        "express": "^4.18.2"
+    }
+}
